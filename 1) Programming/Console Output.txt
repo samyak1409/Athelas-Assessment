@@ -1,0 +1,15 @@
+C:\Users\Samyak\AppData\Local\Programs\Python\Python311\python.exe "E:\Samyak\PycharmProjects\GitHub Repos\Athelas\1) Programming\Script.py"
+
+Getting Stock Data from https://finnhub.io...
+
+Apple {'c': 148.389, 'd': -1.651, 'dp': -1.1004, 'h': 149.87, 'l': 147.29, 'o': 149.13, 'pc': 150.04, 't': 1668616192}
+Amazon {'c': 97.4316, 'd': -1.5084, 'dp': -1.5246, 'h': 97.64, 'l': 95.54, 'o': 96.85, 'pc': 98.94, 't': 1668616176}
+Netflix {'c': 306.05, 'd': -4.15, 'dp': -1.3378, 'h': 309.72, 'l': 304.2004, 'o': 309.94, 'pc': 310.2, 't': 1668616144}
+Facebook {'c': 113.2504, 'd': -3.8296, 'dp': -3.2709, 'h': 116.075, 'l': 112.6612, 'o': 114.5, 'pc': 117.08, 't': 1668616200}
+Google {'c': 98.875, 'd': 0.435, 'dp': 0.4419, 'h': 99.06, 'l': 97.64, 'o': 97.9, 'pc': 98.44, 't': 1668616170}
+
+Most Volatile Stock: ['META', 3.2709, 113.2504, 117.08]
+
+Successfully finished in 2s.
+
+Process finished with exit code 0
